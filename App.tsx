@@ -1,5 +1,5 @@
 import React from 'react';
-import { Header } from './Hero';
+import { Header } from './Header';
 import { Hero } from './Hero';
 import { Clients } from './Clients';
 import { Projects } from './Projects';
