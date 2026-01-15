@@ -1,13 +1,13 @@
 import React from 'react';
-import { Header } from './components/Header';
-import { Hero } from './components/Hero';
-import { Clients } from './components/Clients';
-import { Projects } from './components/Projects';
-import { Awards } from './components/Awards';
-import { WhyChooseUs } from './components/WhyChooseUs';
-import { Services } from './components/Services';
-import { Footer } from './components/Footer';
-import { WhatsAppButton } from './components/WhatsAppButton';
+import { Header } from './Hero';
+import { Hero } from './Hero';
+import { Clients } from './Clients';
+import { Projects } from './Projects';
+import { Awards } from './Awards';
+import { WhyChooseUs } from './WhyChooseUs';
+import { Services } from './Services';
+import { Footer } from './Footer';
+import { WhatsAppButton } from './WhatsAppButton';
 
 function App() {
   return (
